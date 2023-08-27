@@ -1,0 +1,41 @@
+.img{
+    height:20px;
+
+}
+.heading{
+    padding-bottom: 20px;
+    margin: 10px 20px 20px 20px;
+    justify-content: center;
+    text-align: center;
+    font-weight: bold;
+    
+}
+.text-black-50{
+    font-style: italic;
+    justify-content: justify;
+    font-size: 20px;
+
+}
+
+.object-fit-lg-contain{
+    display:fixed;
+    margin: 10px 10px 10px 10px  !important;
+    align-items: center;
+    position: relative;
+}
+.object-fit-lg-contain img {
+    max-width: 60%;
+    width:30px;
+    height: 30px;
+}
+
+.content{
+    margin: 10px 10px 10px 10px  !important;
+    display:relative !important;
+    position: absolute;
+}
+.content img {
+    max-width: 60%;
+    width:30px;
+    height: auto;
+  }

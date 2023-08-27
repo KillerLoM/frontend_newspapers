@@ -1,0 +1,17 @@
+.category-list {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .category-list li {
+    margin-right: 1em;
+  }
+  a.active {
+    /* background-color: black; */
+    color: red;
+  }
+  a.navbar-brand {
+    font-size: 13px;
+  }
